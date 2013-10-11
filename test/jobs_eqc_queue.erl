@@ -2,7 +2,7 @@
 
 -ifdef(EQC).
 -include_lib("eqc/include/eqc.hrl").
--include("jobs.hrl").
+-include("../include/jobs.hrl").
 
 -compile(export_all).
 

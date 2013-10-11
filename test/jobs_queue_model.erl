@@ -1,6 +1,6 @@
 -module(jobs_queue_model).
 
--include("jobs.hrl").
+-include("../include/jobs.hrl").
 
 -compile(export_all).
 

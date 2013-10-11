@@ -2,5 +2,7 @@
 /deps/
 *.beam
 ebin/jobs.app
+/test-log/
+*~
 
 /.jobs.plt
